@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Track
+    uniqueID: 3371892035
+    locked: 0
+  - name: Mileposts
+    uniqueID: 1050863667
+    locked: 0
