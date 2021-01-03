@@ -3,7 +3,7 @@
     using System.Collections.Generic;
     using UnityEngine;
 
-    public class GameManager : Manager<GameManager>
+    public sealed class GameManager : Manager<GameManager>
     {
         public GameObject[] systemPrefabs;
 
